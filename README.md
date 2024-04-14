@@ -4,7 +4,7 @@ Link to the paper: https://arxiv.org/pdf/2204.13101.pdf
 
 Note that the data, checkpoints and masks are not included in this Github. For a better explanation of this project and the links to these files please see: https://github.com/MkuuWaUjinga/leopart
 
-**If you also want to reproduce this table**
+**If you also want to reproduce Table 5 of this paper**
 
 The PVOC data should be put in a folder 'VOCSegmentation', the checkpoints in a folder 'checkpoints' and the masks in a folder 'embeddings' for the code to work without any adjustments.
 
