@@ -2,7 +2,7 @@
 
 Link to the paper: https://arxiv.org/pdf/2204.13101.pdf
 
-Note that the data, checkpoints and masks are not included in this Github. For a better explanation of original project and the links to these files please see: https://github.com/MkuuWaUjinga/leopart
+Note that the data, checkpoints and masks are not included in this Github. For a better explanation of the original project and the links to these files please see: https://github.com/MkuuWaUjinga/leopart
 
 **If you also want to reproduce Table 5 of this paper**
 
